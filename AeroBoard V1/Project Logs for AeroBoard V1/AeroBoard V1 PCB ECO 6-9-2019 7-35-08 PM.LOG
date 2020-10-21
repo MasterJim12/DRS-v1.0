@@ -1,0 +1,135 @@
+Added Component: Designator=C1(CAPC2013X135X50ML10T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR71C225KA12L"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2013X145X50LL20T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C471K5RAC7800"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2013X135X45ML10T25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BF51E474ZA01L"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2013X135X50LL10T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM21BR61C106KE15L"; VariantName = "[No Variations]"
+Added Component: Designator=J1(15910200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/15-91-0200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.66mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "15-91-0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-15-91-0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=538-15-91-0200"; VariantName = "[No Variations]"
+Added Component: Designator=J2(15910200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/15-91-0200.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.66mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "15-91-0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-15-91-0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=538-15-91-0200"; VariantName = "[No Variations]"
+Added Component: Designator=L1(TDK-IND0805-125_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.global.tdk.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.tdk.co.jp/tcfx01/c533_mlz.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "05/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "0.3 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Suface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMT Inductor, 2 x 1.25 mm Body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "IND0805-125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MLZ2012N100LT"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X70X40NL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF4022V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X70X40LL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1622V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X50X30NL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0805102KFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X50X30NL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW0805536KFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LT-DD-12_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.linear.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://cds.linear.com/docs/en/datasheet/3682f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://cds.linear.com/docs/en/packaging/DFN_12_05-08-1725.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Adjust Range"; Value = "250kHz - 2.2MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Over Voltage Protection(V)"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "12-Pin Plastic DFN, Body 3 x 3 mm, Pitch 0.45 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DD-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. A, 06/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LT3682IDD#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-6
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=L1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-8
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=L1-2
+Added Pin To Net: NetName=NetC4_2 Pin=R4-1
+Added Pin To Net: NetName=NetC4_2 Pin=U1-5
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-10
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetSchottky Diode_1 Pin=U1-7
+Added Net: Name=NetSchottky Diode_1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=U1-9
+Added Pin To Net: NetName=VCC Pin=U1-12
+Added Net: Name=VCC
+Added Member To Class: ClassName=AeroBoard V1 Member=Component C1 2.2uF
+Added Member To Class: ClassName=AeroBoard V1 Member=Component C2 470pF
+Added Member To Class: ClassName=AeroBoard V1 Member=Component C3 .22uF
+Added Member To Class: ClassName=AeroBoard V1 Member=Component C4 10uF
+Added Member To Class: ClassName=AeroBoard V1 Member=Component J1 15-91-0200
+Added Member To Class: ClassName=AeroBoard V1 Member=Component J2 15-91-0200
+Added Member To Class: ClassName=AeroBoard V1 Member=Component L1 MLZ2012N100LT
+Added Member To Class: ClassName=AeroBoard V1 Member=Component R1 40.2kO
+Added Member To Class: ClassName=AeroBoard V1 Member=Component R2 16.2kO
+Added Member To Class: ClassName=AeroBoard V1 Member=Component R3 102kO
+Added Member To Class: ClassName=AeroBoard V1 Member=Component R4 536kO
+Added Member To Class: ClassName=AeroBoard V1 Member=Component U1 LT3682IDD#PBF
+Added Room: Name=AeroBoard V1
